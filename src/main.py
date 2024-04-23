@@ -1,6 +1,6 @@
-from hallucination import hallucinate
+from iterative import run_iterative
 
-hallucinate()
+run_iterative()
 
 
 
