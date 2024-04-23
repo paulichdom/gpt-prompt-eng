@@ -1,6 +1,6 @@
-from iterative import run_iterative
+from summarizing import run_summarizing
 
-run_iterative()
+run_summarizing()
 
 
 
