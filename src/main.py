@@ -1,6 +1,6 @@
-from summarizing import run_summarizing
+from inferring import run_inferring
 
-run_summarizing()
+run_inferring()
 
 
 
