@@ -147,6 +147,8 @@ def run_inferring():
 
   Text sample: '''{story}'''
   """
+  
+  """ This response can be incosistent, JSON would be a better way to go """
   response = get_completion(prompt7)
   print(response)
   
