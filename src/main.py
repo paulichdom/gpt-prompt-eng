@@ -1,6 +1,6 @@
-from inferring import run_inferring
+from transforming import run_transforming
 
-run_inferring()
+run_transforming()
 
 
 
