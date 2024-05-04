@@ -1,7 +1,7 @@
-from expanding import run_expanding
+from chatbot import run_chatbot
 
 
-run_expanding()
+run_chatbot()
 
 
 
